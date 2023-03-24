@@ -7,7 +7,7 @@ import java.io.InputStreamReader;
  * @version 2023학년도 1학기
  * Judge1092-A
  * 길이가 3인 부분문자열 찾기 
- */
+ */ 
 
 public class Main {
 	public static int solve(String S) {

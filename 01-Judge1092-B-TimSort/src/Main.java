@@ -3,7 +3,7 @@ import java.io.InputStreamReader;
 import java.util.Arrays;
 import java.util.stream.Collectors;
 
-/**
+/** 
  * 한국기술교육대학교 2023학년도 1학기 알고리즘및실습 과제1
  * @author 2019136056 박세현 
  * @version 2023학년도 1학기
