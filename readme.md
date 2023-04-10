@@ -42,7 +42,7 @@
 - [절반이 넘게 있는 수](./04-Judge1096-B-FindMajorityNumber/)
 - [WiggleSort](./04-Judge1096-C-WiggleSort/)
   
-===
+---
 <h4 algin="left">🧷 Judge 문제 풀이</h4>
 
 - [뒤집어 더하기](./Judge1004/src/Main.java)
