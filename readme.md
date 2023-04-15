@@ -43,6 +43,15 @@
 - [WiggleSort](./04-Judge1096-C-WiggleSort/src/Main.java)
   
 ---
+
+<h4 algin="left">🧷 알고리즘 4장 (Judge 1096)</h4>
+
+- [최댓값과 최솟값을 동시에](./05-Judge1098-A-SelectMinMax/src/Main.java)
+- [두 번째로 큰 값](./05-Judge1098-B-SecondMax/src/Main.java)
+- [가장 많이 등장한 K개 요소 찾기](./05-Judge1098-C-FindKElement/src/Main.java)
+  
+---
+
 <h4 algin="left">🧷 Judge 문제 풀이</h4>
 
 - [뒤집어 더하기](./Judge1004/src/Main.java)
