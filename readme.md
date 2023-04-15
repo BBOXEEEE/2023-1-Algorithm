@@ -44,7 +44,7 @@
   
 ---
 
-<h4 algin="left">🧷 알고리즘 4장 (Judge 1096)</h4>
+<h4 algin="left">🧷 알고리즘 5장 (Judge 1098)</h4>
 
 - [최댓값과 최솟값을 동시에](./05-Judge1098-A-SelectMinMax/src/Main.java)
 - [두 번째로 큰 값](./05-Judge1098-B-SecondMax/src/Main.java)
