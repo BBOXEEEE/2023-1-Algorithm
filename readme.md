@@ -61,6 +61,14 @@
   
 ---
 
+<h4 algin="left">🧷 알고리즘 7장 (Judge 1103)</h4>
+
+- [마감시간이 있는 최적 스케줄 짜기](./07-Judge1103-A-Schedule/src/Main.java)
+- [가장 큰 수 만들기](./07-Judge1103-B-MakeLargestNumber/src/Main.java)
+- [행성충돌](./07-Judge1103-C-PlanetCollision/src/Main.java)
+  
+---
+
 <h4 algin="left">🧷 Judge 문제 풀이</h4>
 
 - [뒤집어 더하기](./Judge1004/src/Main.java)
