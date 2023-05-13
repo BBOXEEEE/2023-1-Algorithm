@@ -69,6 +69,14 @@
   
 ---
 
+<h4 algin="left">🧷 알고리즘 7장 (Judge 1103)</h4>
+
+- [최소 신장 트리: 우선순위 큐를 사용하는 Prim 알고리즘](./08-Judge1104-A-MST(Prim)/src/Main.java)
+- [최소 신장 트리: Union-find 자료구조를 사용하는 Kruskal 알고리즘](./08-Judge1104-A-MST(Kruskal)/src/Main.java)
+- [핵심 간선 찾기](./08-Judge1104-B-MST(Core%20Edge)/src/Main.java)
+  
+---
+
 <h4 algin="left">🧷 Judge 문제 풀이</h4>
 
 - [뒤집어 더하기](./Judge1004/src/Main.java)
