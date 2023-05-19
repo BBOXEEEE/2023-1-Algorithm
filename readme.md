@@ -77,6 +77,20 @@
   
 ---
 
+<h4 algin="left">🧷 알고리즘 과제9 (Judge 1105)</h4>
+
+- [CanSum (Memoization)](./09-Judge1105-A-CanSum(Memoization)/src/Main.java)
+- [CanSum (Tabulation)](./09-Judge1105-A-CanSum(Tabulation)/src/Main.java)
+- [HowSum (Memoization)](./09-Judge1105-B-HowSum(Memoization)/src/Main.java)
+- [HowSum (Tabulation)](./09-Judge1105-B-HowSum(Tabulation)/src/Main.java)
+- [CountSum (Memoization)](./09-Judge1105-C-CountSum(Memoization)/src/Main.java)
+- [CountSum (Tabulation)](./09-Judge1105-C-CountSum(Tabulation)/src/Main.java)
+- [BestSum (Memoization)](./09-Judge1105-D-BestSum(Memoization)/src/Main.java)
+- [BestSum (Tabulation)](./09-Judge1105-D-BestSum(Tabulation)/src/Main.java)
+- [0-1 배낭 채우기](./09-Judge1105-E-Knapsack/src/Main.java)
+  
+---
+
 <h4 algin="left">🧷 Judge 문제 풀이</h4>
 
 - [뒤집어 더하기](./Judge1004/src/Main.java)
