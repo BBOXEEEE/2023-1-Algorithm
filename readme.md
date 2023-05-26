@@ -91,6 +91,14 @@
   
 ---
 
+<h4 algin="left">🧷 알고리즘 과제10 (Judge 1106)</h4>
+
+- [유전자 염기서열 유사성](./10-Judge1106-A-SequenceAlignment/src/Main.java)
+- [목표합 찾기](./10-Judge1106-B-TargetSum/src/Main.java)
+- [방향그래프에서 최단경로 찾기 - Floyd-Warhshall](./10-Judge1106-C-ShortestPath/src/Main.java)
+  
+---
+
 <h4 algin="left">🧷 Judge 문제 풀이</h4>
 
 - [뒤집어 더하기](./Judge1004/src/Main.java)
