@@ -87,7 +87,7 @@
 - [CountSum (Tabulation)](./09-Judge1105-C-CountSum(Tabulation)/src/Main.java)
 - [BestSum (Memoization)](./09-Judge1105-D-BestSum(Memoization)/src/Main.java)
 - [BestSum (Tabulation)](./09-Judge1105-D-BestSum(Tabulation)/src/Main.java)
-- [0-1 배낭 채우기](./09-Judge1105-E-Knapsack/src/Main.java)
+- [0-1 배낭 채우기 - Tabulation](./09-Judge1105-E-Knapsack/src/Main.java)
   
 ---
 
@@ -96,6 +96,14 @@
 - [유전자 염기서열 유사성](./10-Judge1106-A-SequenceAlignment/src/Main.java)
 - [목표합 찾기](./10-Judge1106-B-TargetSum/src/Main.java)
 - [방향그래프에서 최단경로 찾기 - Floyd-Warhshall](./10-Judge1106-C-ShortestPath/src/Main.java)
+  
+---
+
+<h4 algin="left">🧷 알고리즘 과제11 (Judge 1107)</h4>
+
+- [여왕말 문제 nQueens](./11-Judge1107-A-nQueens/src/Main.java)
+- [0-1 배낭 채우기 - BackTracking](./11-Judge1107-B-Knapsack/src/Main.java)
+- [2진법 시계](./11-Judge1107-C-BinaryClock/src/Main.java)
   
 ---
 
