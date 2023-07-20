@@ -107,6 +107,13 @@
   
 ---
 
+<h4 algin="left">🧷 알고리즘 과제12 (Judge 1110)</h4>
+
+- [0-1 배낭 채우기 - Branch](./12-Judge1110-A-Knapsack/src/Main.java)
+- [외판원 문제](./12-Judge1110-B-TSP/src/Main.java)
+  
+---
+
 <h4 algin="left">🧷 Judge 문제 풀이</h4>
 
 - [뒤집어 더하기](./Judge1004/src/Main.java)
